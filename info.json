@@ -4,17 +4,12 @@
     "linkedin": "https://www.linkedin.com/in/josh-kim-dev",
     "github": "jkim057",
     "email": "joshkim057@gmail.com",
-    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "resume": "https://github.com/jkim057/infoResume",
     "proficientTechnologies": [
         "Javascript",
         "React",
-
         "Node",
-        "Express",
-
-
-        "Wordpress",
-
+        "Wordpress"
     ],
     "otherSkills": [
         "Video Games",
